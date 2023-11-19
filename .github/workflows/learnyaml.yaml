@@ -1,5 +1,13 @@
-
 ---  # document start
+name: CICD-Actions
+
+on: 
+  push:
+    branches:
+      -main
+      
+
+
 
 
 ...  # document end
